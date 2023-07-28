@@ -1,8 +1,8 @@
 {
-  "name": "nombre-repo",
+  "name": "plantilla-react-goit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NombreUsuario.github.io/nombre-repo/",
+  "homepage": "https://pugli87.github.io/Plantilla-react-goit/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
